@@ -25,3 +25,7 @@ pythonw VPNStatus.py
 <img src="screenshot1.png">
 <img src="screenshot2.png">
 <img src="screenshot3.png">
+
+#### License
+
+MIT License. Please see LICENSE file.
