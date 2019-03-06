@@ -6,7 +6,7 @@ Windows tray icon to start/stop VPN (using Python and Win32 extensions)
 1. Setup the VPN per your company’s procedures. Ensure the name of the connection is: <company name> VPN. Enter and save the Username and Password. 
 
 2. Install Python 2.7
-https://goo.gl/JPV9rc
+https://goo.gl/JPV9rc OR
 
 3. Install Python 3.7
 https://bit.ly/2RbMVas
