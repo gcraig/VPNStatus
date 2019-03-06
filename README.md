@@ -14,7 +14,7 @@ https://bit.ly/2RbMVas
 4. Install (Corresponding) Python for Windows Extensions
 https://goo.gl/Dto87w
 
-5. Change VPNStatus.py internally to <company name>.
+5. Change VPNStatus.py internally to &lt;company name&gt;.
 
 6. Double click “VPNStatus.py” to run. 
 
