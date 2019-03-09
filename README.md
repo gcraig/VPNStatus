@@ -1,9 +1,16 @@
-VPNStatus
-=========
+# VPNStatus
 
-Windows tray icon to start/stop VPN (using Python and Win32 extensions)
+A Windows tray icon to start/stop your VPN connection, using Python and Win32 extensions, versus a more involved set of connection procedures. 
 
-#### Installation
+## Getting Started
+
+### Prerequisites
+
+* Python 2 or 3
+* Python Windows Extensions 
+* Configured VPN 
+
+### Installation
 
 1. Setup the VPN per your company’s procedures. Ensure the name of the connection is: <company name> VPN. Enter and save the Username and Password. 
 
@@ -20,12 +27,28 @@ http://sourceforge.net/projects/pywin32/files/pywin32/Build%20217/pywin32-217.wi
 6. Or create a shortcut, add a registry entry to autorun via pythonw to avoid displaying a console window:  
 pythonw VPNStatus.py
 
-#### Screenshots
+```
+Example:
+```
+
+## Screenshots
 
 <img src="screenshot1.png">
 <img src="screenshot2.png">
 <img src="screenshot3.png">
 
-#### License
+## Contributing
 
-MIT License. Please see LICENSE file.
+Please read CONTRIBUTING or CONTRIBUTING.md file for details on our code of conduct and the process for submitting pull requests to us.
+
+## Versioning
+
+We use [SemVer](http://semver.org/) for versioning. 
+
+## Authors
+
+* **George Craig** - *Initial work*
+
+## License
+
+MIT License. Please see LICENSE or LICENSE.md file.
