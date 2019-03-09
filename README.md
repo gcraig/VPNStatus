@@ -20,16 +20,12 @@ http://www.python.org/ftp/python/2.7.3/python-2.7.3.amd64.msi
 3. Install (Corresponding) Python for Windows Extensions
 http://sourceforge.net/projects/pywin32/files/pywin32/Build%20217/pywin32-217.win-amd64-py2.7.exe/download
 
-4. Change VPNStatus.py internally to <company name>.
+4. Change VPNStatus.py internally to &lt; company name &gt;.
 
 5. Double click “VPNStatus.py” to run. 
 
 6. Or create a shortcut, add a registry entry to autorun via pythonw to avoid displaying a console window:  
 pythonw VPNStatus.py
-
-```
-Example:
-```
 
 ## Screenshots
 
